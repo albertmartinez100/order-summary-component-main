@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.girl{
+    border-top-left-radius: 500px black solid;
+    border-top-right-radius: 2px black solid;
+}
+
+h1, h2{
+font-family: 'Lexend Deca', sans-serif;
+font-weight: 500px;
+}
+
